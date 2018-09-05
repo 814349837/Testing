@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Testing
+//  SimulateLocation
 //
-//  Created by MCT-Norman on 2018/2/6.
-//  Copyright © 2018年 mcttechnology. All rights reserved.
+//  Created by sj-Norman on 2018/9/5.
+//  Copyright © 2018年 sj-Norman. All rights reserved.
 //
 
 import UIKit
