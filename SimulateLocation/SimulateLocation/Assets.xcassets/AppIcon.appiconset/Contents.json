@@ -38,7 +38,7 @@
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "icon180.png",
+      "filename" : "IMG_9324.png",
       "scale" : "3x"
     },
     {
@@ -87,9 +87,8 @@
       "scale" : "2x"
     },
     {
-      "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "filename" : "icon.png",
+      "size" : "1024x1024",
       "scale" : "1x"
     }
   ],
