@@ -51,7 +51,7 @@
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
-         identifier = "../SimulateLocation/Location.gpx"
+         identifier = "../../SimulateLocation/Location.gpx"
          referenceType = "0">
       </LocationScenarioReference>
    </LaunchAction>
